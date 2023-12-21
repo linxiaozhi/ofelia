@@ -1,6 +1,8 @@
 .vscode
+.idea
 ofelia
 debug
 build
 bin
+vendor
 *coverage*
